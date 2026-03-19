@@ -33,14 +33,14 @@ Olá , Sou Junio Ribeiro
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Junio-Ribeiro-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JuniorR-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Ribeiro-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorR-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
